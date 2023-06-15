@@ -1,4 +1,9 @@
-<a href="https://www.kaggle.com/code/hossamelshabory97/udemy-courses-eda?scriptVersionId=133456805" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+<div align="center">
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/hossam-elshabory/Udemy-Courses-EDA/blob/main/udemy-courses-eda.ipynb) -OR-
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/hossamelshabory97/udemy-courses-eda?scriptVersionId=133456805)
+
+</div>
 
 <h1 align="center">💻 Udemy Courses | EDA 📊</h1>
 
