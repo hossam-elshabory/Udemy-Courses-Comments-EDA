@@ -16,7 +16,7 @@
 - [Data Source](#data-source)
 - [Conclusion](#conclusion)
   - [Findings Summary](#findings-summary)
-- [Recommendations for Udemy Stockholders](#recommendations-for-udemy-stockholders)
+- [Recommendations for Udemy Stakeholders](#Recommendations-for-Udemy-Stakeholders)
 
 
 # Introduction
@@ -63,7 +63,7 @@ These insights provide valuable information for Udemy and its stakeholders, emph
 
 ## Findings Summary
 
-- IT & software, Development, Teaching & Academics, Personal Development and Business are the most popular courses categories on Udemy.
+- **IT & software, Development, Teaching & Academics, Personal Development and Business are the most popular courses categories on Udemy.**
 
     <details>
     <summary>Click to View Visualization.</summary>
@@ -74,7 +74,7 @@ These insights provide valuable information for Udemy and its stakeholders, emph
 
 ---
 
-- Other IT &, Web Development, IT Certifications, Language Learning and Programming Languages are the most popular courses subcategories on Udemy.
+- **Other IT &, Web Development, IT Certifications, Language Learning and Programming Languages are the most popular courses subcategories on Udemy.**
 
     <details>
     <summary>Click to View Visualization.</summary>
@@ -84,7 +84,7 @@ These insights provide valuable information for Udemy and its stakeholders, emph
 
 ---
 
-- About 94.4% of courses are priced below 200 dollars.
+- **About 94.4% of courses are priced below 200 dollars.**
 
     <details>
     <summary>Click to View Visualization.</summary>
@@ -94,7 +94,7 @@ These insights provide valuable information for Udemy and its stakeholders, emph
 
 ---
 
-- Learn Tech Plus, TJ Walker, Phil Ebiner, YouAccel Tanning and Star-Tech Academy are the topmost 5 performing instructors by subscribers on Udemy.
+- **Learn Tech Plus, TJ Walker, Phil Ebiner, YouAccel Tanning and Star-Tech Academy are the topmost 5 performing instructors by subscribers on Udemy.**
 
     <details>
     <summary>Click to View Visualization.</summary>
@@ -104,7 +104,7 @@ These insights provide valuable information for Udemy and its stakeholders, emph
 
 ---
 
-- Year 2020 is the year that Udemy got the most subscribers in, about 120,730,813 users subscribed that year.
+- **Year 2020 is the year that Udemy got the most subscribers in, about 120,730,813 users subscribed that year.**
 
     <details>
     <summary>Click to View Visualization.</summary>
@@ -112,7 +112,7 @@ These insights provide valuable information for Udemy and its stakeholders, emph
     ![Alt text](imgs/best_year.png)
     </details>
 
-# Recommendations for Udemy Stockholders
+# Recommendations for Udemy Stakeholders
 
 - Capitalize on the popularity of IT & Software, Development, Teaching & Academics, Personal Development, and Business categories by investing in targeted marketing campaigns to attract more learners to these high-demand courses.
 
